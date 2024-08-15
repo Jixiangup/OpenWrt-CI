@@ -12,6 +12,8 @@
 
 ## 使用教程:
 
+> Useage: https://cloud.tencent.com/developer/article/1875314
+
 ### 在一切开始前, 你需要的是:
 
 - GitHub 账号
